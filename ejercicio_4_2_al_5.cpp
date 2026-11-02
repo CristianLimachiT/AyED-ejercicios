@@ -49,6 +49,7 @@ void Grabar_Archivo(SDatos &RDatos){
 }
 
 // ejercicio 2
+// ACTUALIZAR ARCHIVO MIENTRAS SE LEE COMO EN EL MANUAL
 void Actualizar_Precios(){
     SDatos RDatos;
     float porcentaje;
